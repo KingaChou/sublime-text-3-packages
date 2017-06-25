@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"C Improved",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"Gofmt",
+		"GoGdb",
+		"GoSublime",
+		"Modific",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SFTP"
+	]
+}

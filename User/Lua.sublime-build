@@ -1,0 +1,9 @@
+{
+	"windows"    :
+    {
+        "cmd"        : ["lua", "-e","io.stdout:setvbuf 'no'" , "$file"],
+        "file_regex": "^(?:lua:){0,1} .+\\\\(.+\\.lua):(*):.+",
+        "selector"    : "source.lua",
+        "encoding"    : "gb2312"
+    }
+}

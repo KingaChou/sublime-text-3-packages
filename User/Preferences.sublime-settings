@@ -1,0 +1,38 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		".tags",
+		".tags_sorted_by_file",
+		"*.tar.bz2",
+		"*.tar.xz",
+		"*.tar.gz",
+		"*.tar",
+		"*.zip",
+		"*.rar",
+		"*.7z",
+		"*.rpm"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"CMakeFile",
+		"__MACOSX"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Git",
+		"GitGutter",
+		"Markdown",
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "true"
+}

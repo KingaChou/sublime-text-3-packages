@@ -1,0 +1,11 @@
+{
+	"9o.hist.E:\\Code\\go\\error_process":
+	[
+		"ls",
+		"help",
+		"go build panic_recover.go"
+	],
+	"ann": "a17.03.05-1",
+	"install_version": "r17.03.05-1",
+	"version": "r17.03.05-1"
+}

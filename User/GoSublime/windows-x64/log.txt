@@ -1,0 +1,4 @@
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"c:\\go\\pkg\\windows_amd64;C:\\Users\\KC\\go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"c:\\go", GOPATH:"C:\\Users\\KC/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"C:\\Go\\pkg\\windows_amd64;C:\\Users\\KC\\go\\pkg\\windows_amd64", GOOS:"windows", GOARCH:"amd64", Compiler:"gc", GOROOT:"C:\\Go\\", GOPATH:"C:\\Users\\KC/go", InstallSuffix:""}
